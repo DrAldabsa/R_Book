@@ -139,7 +139,7 @@
 ---
 ## ✍️ عن المؤلف
 
-*# 🧑‍🔬 Dr. Abdulkareem Sahab Aldabsaa — د. عبد الكريم سحاب الدبّساء
+*# 🧑‍🔬 Dr. Abdulkareem Sahab Aldabsaa — د. عبد الكريم سحاب الدبسا
 
 ![Dr. Abdulkareem Sahab Aldabsaa](images/author.jpg)
 
@@ -232,4 +232,4 @@ Dr. Aldabsaa has received numerous **certificates of appreciation**, awards, and
 ## 📬 تواصل معي
 
 إذا قرأت الكتاب أحب أن أعرف رأيك!  
-راسلني عبر البريد: **your.email@example.com**
+راسلني عبر البريد: **agri_1982@yahoo.com**
